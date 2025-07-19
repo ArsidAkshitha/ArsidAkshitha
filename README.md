@@ -27,7 +27,6 @@ Git | GitHub | Excel | Postman | VS Code | Jupyter
 
 ### 📫 Let’s Connect!
 
-- 💼 [
 - 🌐 
 - 📬 Email: akshithaarsid19@gmail.com  
 
