@@ -27,7 +27,7 @@ Git | GitHub | Excel | Postman | VS Code | Jupyter
 
 ### 📫 Let’s Connect!
 
-- 🌐 
+- 🌐 https://arsidakshitha.github.io/portfolio/
 - 📬 Email: akshithaarsid19@gmail.com  
 
 ---
